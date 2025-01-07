@@ -1,0 +1,99 @@
+
+Descripción Completa y Paso a Paso del Juego
+1. Introducción
+Contexto: El jugador es reclutado por un personaje dinámico generado en función de sus respuestas iniciales. Este personaje lo guiará a través de un multiverso en crisis por la desinformación.
+Objetivo: Tomar decisiones críticas basadas en información real para restaurar el equilibrio en universos afectados por fake news.
+2. Configuración Inicial (Perfil del Jugador)
+Preguntas Básicas:
+
+¿Cómo te llamás?
+¿Qué edad tenés?
+¿Cómo te identificás (género)?
+¿De dónde sos (país y ciudad)?
+Humor Inicial:
+
+El personaje hace un comentario cómico relacionado con la ciudad del jugador.
+Ejemplo: "Ah, [ciudad]. ¡Espero que estés preparado para enfrentar un caos mayor al tráfico de tu lugar!"
+Explorando tus Intereses:
+
+¿Quién es tu influencer o youtuber favorito?
+¿Cuál es tu pasión en la vida?
+Creación del Personaje Dinámico:
+
+Basado en las respuestas del jugador, se genera un nombre, personalidad e historia para el personaje guía.
+Ejemplo: Influencer: PewDiePie; Pasión: Tecnología → Nombre del personaje: "TechPie", un hacker del multiverso.
+3. Introducción al Multiverso
+Narrativa Inicial:
+El jugador es transportado a un multiverso donde cada dimensión está colapsando por la desinformación. Su misión es salvar tres universos, usando herramientas de verificación y tomando decisiones informadas.
+
+Objetivo del Juego:
+Restaurar el equilibrio en tres escenarios, cada uno generado dinámicamente según:
+
+El perfil del jugador (intereses y respuestas).
+Los casos reales de desinformación verificados por Chequeado.
+4. Desarrollo Dinámico del Juego: Generación de Escenarios
+Los escenarios no son predefinidos, sino que se generan dinámicamente a partir de:
+
+Respuestas del Jugador:
+
+Su influencer favorito.
+Su pasión en la vida.
+Casos de Chequeado:
+
+Seleccionados en tiempo real según su relevancia y conexión con el perfil del jugador.
+Proceso de Generación:
+El juego combina los intereses del jugador con uno de los casos reales de desinformación.
+Ejemplo:
+
+Influencer: "MrBeast" → Tema: Fake news sobre concursos falsos.
+Pasión: "Arte" → Estilo visual del escenario inspirado en surrealismo.
+Escenario Dinámico:
+
+Caso: Phishing de datos bancarios.
+Descripción del Mundo: "Un universo donde cada ciudadano cree que un gorro mágico les dará riqueza instantánea si ingresan sus datos en un portal."
+Decisiones Clave:
+Compartir el enlace sin verificar → Desencadena un colapso económico.
+Investigar con herramientas del juego → Descubre que es una estafa.
+Elementos de Personalización:
+
+El personaje guía adapta su tono y comentarios a los intereses del jugador.
+El diseño del escenario refleja los temas relevantes para el jugador.
+Ejemplos de Escenarios Dinámicos Generados:
+El Mundo del Influencer Zombie
+
+Caso Real: Fake news sobre "elixires milagrosos".
+Inspiración del Usuario: Pasión: Medicina; Influencer: Luisito Comunica.
+Descripción: Una dimensión donde un elixir viral convierte a los ciudadanos en zombis obsesionados con compartir fake news.
+La Dimensión del Algoritmo Totalitario
+
+Caso Real: Manipulación electoral.
+Inspiración del Usuario: Pasión: Política; Influencer: AuronPlay.
+Descripción: Un mundo donde un algoritmo selecciona al líder basándose en publicaciones compartidas sin verificar.
+El Planeta del Arte Viral
+
+Caso Real: Manipulación de imágenes virales.
+Inspiración del Usuario: Pasión: Arte; Influencer: Dross.
+Descripción: Una realidad donde imágenes manipuladas generan caos en las redes sociales.
+5. Desenlace: Reflexión Educativa
+Resumen de Decisiones:
+Al final de cada escenario, el personaje analiza cómo tus elecciones afectaron el multiverso.
+Ejemplo:
+
+"Elegiste compartir sin verificar, y tu mundo colapsó. Aquí tienes herramientas para evitar este error en la vida real."
+Casos Reales:
+
+Se presentan enlaces a los artículos de Chequeado relacionados con cada escenario.
+Ejemplo:
+"Este caso se basó en: Estafas en cajeros automáticos."
+Recomendaciones Prácticas:
+
+Uso de herramientas de verificación: análisis inverso, validación de fuentes, etc.
+6. Cierre Personalizado
+Mensaje Final:
+El personaje despide al jugador con un mensaje adaptado al desempeño.
+Ejemplo:
+
+"¡Gran trabajo, [nombre]! Ahora que salvaste al multiverso, estás listo para combatir la desinformación en tu propio mundo."
+Opciones para Rejugar:
+
+Posibilidad de explorar nuevos escenarios adaptados a diferentes intereses y casos reales.
